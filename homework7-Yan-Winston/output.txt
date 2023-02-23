@@ -1,0 +1,31 @@
+Path: Reno -> San_Francisco -> Salt_Lake_City -> Seattle -> Las_Vegas -> Reno   -   Gas used: 83
+Path: Reno -> San_Francisco -> Salt_Lake_City -> Las_Vegas -> Seattle -> Reno   -   Gas used: 79
+Path: Reno -> San_Francisco -> Seattle -> Salt_Lake_City -> Las_Vegas -> Reno   -   Gas used: 68
+Path: Reno -> San_Francisco -> Seattle -> Las_Vegas -> Salt_Lake_City -> Reno   -   Gas used: 77
+Path: Reno -> San_Francisco -> Las_Vegas -> Salt_Lake_City -> Seattle -> Reno   -   Gas used: 68
+Path: Reno -> San_Francisco -> Las_Vegas -> Seattle -> Salt_Lake_City -> Reno   -   Gas used: 81
+Path: Reno -> Salt_Lake_City -> San_Francisco -> Seattle -> Las_Vegas -> Reno   -   Gas used: 90
+Path: Reno -> Salt_Lake_City -> San_Francisco -> Las_Vegas -> Seattle -> Reno   -   Gas used: 90
+Path: Reno -> Salt_Lake_City -> Seattle -> San_Francisco -> Las_Vegas -> Reno   -   Gas used: 79
+Path: Reno -> Salt_Lake_City -> Seattle -> Las_Vegas -> San_Francisco -> Reno   -   Gas used: 81
+Path: Reno -> Salt_Lake_City -> Las_Vegas -> San_Francisco -> Seattle -> Reno   -   Gas used: 75
+Path: Reno -> Salt_Lake_City -> Las_Vegas -> Seattle -> San_Francisco -> Reno   -   Gas used: 77
+Path: Reno -> Seattle -> San_Francisco -> Salt_Lake_City -> Las_Vegas -> Reno   -   Gas used: 78
+Path: Reno -> Seattle -> San_Francisco -> Las_Vegas -> Salt_Lake_City -> Reno   -   Gas used: 75
+Path: Reno -> Seattle -> Salt_Lake_City -> San_Francisco -> Las_Vegas -> Reno   -   Gas used: 81
+Path: Reno -> Seattle -> Salt_Lake_City -> Las_Vegas -> San_Francisco -> Reno   -   Gas used: 68
+Path: Reno -> Seattle -> Las_Vegas -> San_Francisco -> Salt_Lake_City -> Reno   -   Gas used: 90
+Path: Reno -> Seattle -> Las_Vegas -> Salt_Lake_City -> San_Francisco -> Reno   -   Gas used: 79
+Path: Reno -> Las_Vegas -> San_Francisco -> Salt_Lake_City -> Seattle -> Reno   -   Gas used: 81
+Path: Reno -> Las_Vegas -> San_Francisco -> Seattle -> Salt_Lake_City -> Reno   -   Gas used: 79
+Path: Reno -> Las_Vegas -> Salt_Lake_City -> San_Francisco -> Seattle -> Reno   -   Gas used: 78
+Path: Reno -> Las_Vegas -> Salt_Lake_City -> Seattle -> San_Francisco -> Reno   -   Gas used: 68
+Path: Reno -> Las_Vegas -> Seattle -> San_Francisco -> Salt_Lake_City -> Reno   -   Gas used: 90
+Path: Reno -> Las_Vegas -> Seattle -> Salt_Lake_City -> San_Francisco -> Reno   -   Gas used: 83
+Lowest Gas Usage: 68
+
+Shortest Path: (tie between 4)
+Path: Reno -> San_Francisco -> Seattle -> Salt_Lake_City -> Las_Vegas -> Reno   -   Gas used: 68
+Path: Reno -> San_Francisco -> Las_Vegas -> Salt_Lake_City -> Seattle -> Reno   -   Gas used: 68
+Path: Reno -> Seattle -> Salt_Lake_City -> Las_Vegas -> San_Francisco -> Reno   -   Gas used: 68
+Path: Reno -> Las_Vegas -> Salt_Lake_City -> Seattle -> San_Francisco -> Reno   -   Gas used: 68
